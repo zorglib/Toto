@@ -1,4 +1,6 @@
 curseur("bleu", 0, 255, 5, 165) ; // Pour faire varier  bleu,
+curseur("rouge", 0, 255, 5, 165) ; // Pour faire varier  bleu,
+
 // de 0 à 255, par pas de 5, initialement 165).
    
 incrémenteur("Dy", -20, 20, 4, 12);
